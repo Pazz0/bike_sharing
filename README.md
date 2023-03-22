@@ -12,11 +12,13 @@ Checkout Times for Users Photo
 
 This line graph displays the number of bikes checked out by duration for all users. The graph can be filtered by the hour to observe patterns during different times of the day.
 
+
 ### Visualization 2: Checkout Times by Gender
 
 Checkout Times by Gender photo
 
 This line graph shows the number of bikes checked out by duration for each gender by the hour. The graph can be filtered by the hour and gender to identify trends based on demographics.
+
 
 ### Visualization 3: Trips by Weekday for Each Hour
 
@@ -24,11 +26,11 @@ Trips by Weekday for Each Hour
 
 A heatmap showing the number of bike trips for each hour of each day of the week. This visualization helps to identify peak hours and days for bike trips.
 
-### Visualization 4:
 
-Trips by Gender (Weekday per Hour)
+### Visualization 4: Trips by Gender (Weekday per Hour)
 
 This heatmap displays the number of bike trips by gender for each hour of each day of the week. The heatmap can be filtered by gender, allowing for further analysis of trip patterns based on demographics.
+
 
 ### Visualization 5: User Trips by Gender by Weekday
 
@@ -36,17 +38,20 @@ User Trips by Gender by Weekday photo
 
 This heatmap shows the number of bike trips broken down by gender for each day of the week by each user type. This visualization provides insights into the preferences of different user types and genders across the week.
 
-### Visualization 6: Average Trip Duration
 
-Average Trip Duration
+### Visualization 6: August Peak Hours
 
-This graph represents the average trip duration for all users, offering insights into how long bikes are typically checked out.
+Photo
 
-### Visualization 7: Bike Utilization
+These are the peak hours for august. The most popular times are highlighted. The best time for maintenance on bikes is between 2 and 5 am.
 
-Bike Utilization
 
-This chart shows the overall bike utilization, providing an understanding of how efficiently the bikes are being used in the system.
+### Visualization 7: Top Starting Locations
+
+Photo
+
+A Heatmap showcasing the top starting locations. There is major popularity amongst tourist areas as well as on the water and close to central park.
+
 
 ## Summary
 
